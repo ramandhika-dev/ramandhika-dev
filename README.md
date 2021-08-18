@@ -1,10 +1,12 @@
-## Hi there 👋 , I'm Ramandhika Ilham Pratama!
+## 👋 , I'm Ramandhika Ilham Pratama!
 
 I'm a Junior Developer
 
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramandhika-dev&show_icons=true&theme=gotham)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramandhika-dev)](https://github.com/ramandhika-dev/github-readme-stats) -->
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramandhika-dev&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
 
 ## Used Programming Language
 - Web Script<br/>
