@@ -5,7 +5,6 @@ I'm a Junior Developer
 A student of Information Systems with work and organizational experience in the fields of programming and multimedia. Proficient in designing databases, creating websites using Figma, and implementing them into functional websites. Aspiring to further develop programming skills in a more profound manner.
 
 ### My Stats ⚡
-![Github stats](https://github-readme-stats.vercel.app/api?username=ramandhika&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramandhika&hide=html,css,hack&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 ## Used Programming Language
