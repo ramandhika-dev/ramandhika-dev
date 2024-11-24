@@ -16,7 +16,7 @@ I'm a passionate **Backend Developer** with a love for building efficient and sc
 ### 🔧 Technologies & Tools I Use
 <div align="center">
   <img height="50" src="https://skillicons.dev/icons?i=php,laravel,js,typescript,prisma,express,nestjs,postgres,mysql,go,dotnet,wordpress,java" alt="Ramandhika's Backend Skills" />
-  <img height="50" src="https://skillicons.dev/icons?i=docker,googlecloud,postman,cpanel,kubernetes" alt="Ramandhika's DevOps & Tools" />
+  <img height="50" src="https://skillicons.dev/icons?i=docker,googlecloud,postman" alt="Ramandhika's DevOps & Tools" />
 </div>
 
 ---
@@ -28,7 +28,7 @@ As a **Backend Developer**, I focus on building robust APIs and systems that can
 - 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
 - 🌐 **API Development**: REST, GraphQL
 - 🔒 **Authentication & Security**: JWT, OAuth2, API Security best practices
-- 🏗️ **Microservices & Architecture**: Building modular systems with clean code principles
+<!-- - 🏗️ **Microservices & Architecture**: Building modular systems with clean code principles -->
 - 🚀 **DevOps & Deployment**: Docker, Kubernetes, CI/CD pipelines, AWS, Heroku
 
 Although my primary focus is backend, I have a **basic understanding of frontend** technologies like HTML, CSS, and JavaScript, and I enjoy integrating frontend with backend systems.
@@ -42,7 +42,7 @@ I’m constantly improving my skills and exploring new technologies to stay ahea
 - **Serverless Architecture**: Leveraging serverless computing for cost-effective backend solutions.
 
 ---
-
+<!--
 ### 🌱 Notable Projects
 Here are a few projects that showcase my backend development skills:
 - **[Project 1](https://github.com/ramandhika/project1)**: A **real-time chat application** built with **Node.js**, **Express**, and **Socket.io**.
@@ -50,6 +50,7 @@ Here are a few projects that showcase my backend development skills:
 - **[Project 3](https://github.com/ramandhika/project3)**: A **RESTful API** for a **bookstore** using **NestJS**, **PostgreSQL**, and **JWT authentication**.
 
 ---
+-->
 
 ### 🤝 Let's Connect!
 Feel free to reach out to me for collaborations, open-source contributions, or just to talk tech. You can connect with me on:
