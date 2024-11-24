@@ -28,8 +28,8 @@ As a **Backend Developer**, I focus on building robust APIs and systems that can
 - 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
 - 🌐 **API Development**: REST, GraphQL
 - 🔒 **Authentication & Security**: JWT, OAuth2, API Security best practices
-<!-- - 🏗️ **Microservices & Architecture**: Building modular systems with clean code principles -->
 - 🚀 **DevOps & Deployment**: Docker, Kubernetes, CI/CD pipelines, AWS, Heroku
+<!-- - 🏗️ **Microservices & Architecture**: Building modular systems with clean code principles -->
 
 Although my primary focus is backend, I have a **basic understanding of frontend** technologies like HTML, CSS, and JavaScript, and I enjoy integrating frontend with backend systems.
 
@@ -56,8 +56,7 @@ Here are a few projects that showcase my backend development skills:
 Feel free to reach out to me for collaborations, open-source contributions, or just to talk tech. You can connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/ramandhika)
-- [Twitter](https://twitter.com/ramandhika)
-- [Website](https://www.ramandhika.dev)
+- [Instagram](https://instagram.com/ramandhika.ip)
 
 ---
 
